@@ -1,0 +1,11 @@
+.{
+    .name = "s2s",
+    .version = "0.1.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "design",
+        "LICENSE",
+        "s2s.zig",
+    },
+}
